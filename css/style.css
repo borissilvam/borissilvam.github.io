@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    padding: 2rem;
+    margin: 2rem;
+}
+.main-conteiner{
+    display: flex;
+    
+}
+.section01{
+   
+    width:75%;
+    padding: 1rem;
+    margin: 1rem;
+}
+.main-img{
+    height: 35rem;
+    width: 100%;
+}
+.section02{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    margin: 1rem;
+    
+    
+}
+.section02-div{
+    padding: 1rem;
+    margin: 1rem;
+}
